@@ -1,0 +1,5 @@
+X-Shopify-Access-Token
+
+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
+
+https://comfez.myshopify.com
